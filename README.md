@@ -83,47 +83,100 @@ csv file includes the following contents:
 
 
 
-another
-
 <table>  
   <tr>  
-    <th style="width: 20%;">topic-url</th>  
-    <th style="width: 15%;">topic-name</th>  
-    <th style="width: 20%;">father-topics</th>  
-    <th style="width: 45%;">topic-description</th>  
-  </tr>  
+    <th>topic-url</th>  
+    <th>topic-name</th>  
+    <th>father-topics</th>  
+  </tr>
   <tr>  
-    <td>https://www.wikihow.com/Category:Arts-and-Entertainment</td>  
+    <td>https://www.wikihow.com/Category:Arts-and-Entertainment)</td>  
     <td>Arts and Entertainment</td>  
-    <td>['root']</td>  
-    <td>Learn to be well read, become a better artist, and sell your own music with wikiHow's Arts and Entertainment category. Our articles can help you develop talent in multiple areas and be a good entertainer. Check out how-tos on learning ventriloquism, making your own radio show, becoming a professional storyteller, and more.</td>  
+    <td>['root']</td>   
   </tr>  
+  <tr>
+    <th>topic description</th>
+  </tr>
+  <tr>
+  	<td colspan="3">Learn to be well read, become a better artist, and sell your own music with wikiHow's Arts and Entertainment category. Our articles can help you develop talent in multiple areas and be a good entertainer. Check out how-tos on learning ventriloquism, making your own radio show, becoming a professional storyteller, and more.</td>
+  </tr>
+  <tr>
+  	<td> </td>
+  </tr>
+  <tr>  
+    <th>topic-url</th>  
+    <th>topic-name</th>  
+    <th>father-topics</th>  
+  </tr>
   <tr>  
     <td>https://www.wikihow.com/Category:Amusement-and-Theme-Parks</td>  
     <td>Amusement and Theme Parks</td>  
-    <td>['root', 'Arts and Entertainment']</td>  
-    <td>Learn everything you want about Amusement and Theme Parks with the wikiHow Amusement and Theme Parks Category. Learn about topics such as How to Overcome Your Fear of Roller Coasters, How to Cancel Six Flags Membership, How to Overcome a Fear of Scary Rides, and more with our helpful step-by-step instructions with photos and videos.</td>  
-  </tr>  
+    <td>['root', 'Arts and Entertainment']</td>    
+  </tr> 
+  <tr>
+    <th>topic description</th>
+  </tr>
+  <tr>
+  	<td colspan="3">Learn everything you want about Amusement and Theme Parks with the wikiHow Amusement and Theme Parks Category. Learn about topics such as How to Overcome Your Fear of Roller Coasters, How to Cancel Six Flags Membership, How to Overcome a Fear of Scary Rides, and more with our helpful step-by-step instructions with photos and videos. </td>
+  </tr>
+   <tr>
+  	<td> </td>
+  </tr>
+  <tr>  
+    <th>topic-url</th>  
+    <th>topic-name</th>  
+    <th>father-topics</th>  
+  </tr>
   <tr>  
     <td>https://www.wikihow.com/Category:Art-Collection</td>  
     <td>Art Collection</td>  
     <td>['root', 'Arts and Entertainment', 'Artwork']</td>  
-    <td>Learn everything you want about Art Collection with the wikiHow Art Collection Category. Learn about topics such as How to Appreciate Art, How to Sell Thomas Kinkade Paintings, How to Talk About Art, and more with our helpful step-by-step instructions with photos and videos.</td>  
   </tr>  
+  <tr>
+    <th>topic description</th>
+  </tr>
+  <tr>
+  	<td colspan="3">Learn everything you want about Art Collection with the wikiHow Art Collection Category. Learn about topics such as How to Appreciate Art, How to Sell Thomas Kinkade Paintings, How to Talk About Art, and more with our helpful step-by-step instructions with photos and videos. </td>
+  </tr>
+   <tr>
+  	<td> </td>
+  </tr>
+  <tr>  
+    <th>topic-url</th>  
+    <th>topic-name</th>  
+    <th>father-topics</th>  
+  </tr>
   <tr>  
     <td>https://www.wikihow.com/Category:Automotive-and-Transportation-Businesses</td>  
     <td>Automotive and Transportation Businesses</td>  
     <td>['root', 'Cars & Other Vehicles']</td>  
-    <td>Learn everything you want about Automotive and Transportation Businesses with the wikiHow Automotive and Transportation Businesses Category. Learn about topics such as How to Open a Car Wash Business, How to Buy and Sell Cars for Profit, How to Open a Car Dealership, and more with our helpful step-by-step instructions with photos and videos.</td>  
-  </tr>  
+  </tr> 
+  <tr>
+    <th>topic description</th>
+  </tr>
+  <tr>
+  	<td colspan="3">Learn everything you want about Automotive and Transportation Businesses with the wikiHow Automotive and Transportation Businesses Category. Learn about topics such as How to Open a Car Wash Business, How to Buy and Sell Cars for Profit, How to Open a Car Dealership, and more with our helpful step-by-step instructions with photos and videos. </td>
+  </tr>
+   <tr>
+  	<td> </td>
+  </tr>
+  <tr>  
+    <th>topic-url</th>  
+    <th>topic-name</th>  
+    <th>father-topics</th>  
+  </tr>
   <tr>  
     <td>https://www.wikihow.com/Category:Audio</td>  
     <td>Audio</td>  
     <td>['root', 'Computers and Electronics']</td>  
-    <td>Learn everything you want about Audio with the wikiHow Audio Category. Learn about topics such as How to Fix an Airpods Microphone, How to What Equalizer Settings Are Best for Bass and Other Equalizer Settings Explained, How to Reduce Static Noise in a Microphone, and more with our helpful step-by-step instructions with photos and videos.</td>  
-  </tr>  
+  </tr> 
+  <tr>
+    <th>topic description</th>
+  </tr>
+  <tr>
+  	<td colspan="3">Learn everything you want about Audio with the wikiHow Audio Category. Learn about topics such as How to Fix an Airpods Microphone, How to What Equalizer Settings Are Best for Bass and Other Equalizer Settings Explained, How to Reduce Static Noise in a Microphone, and more with our helpful step-by-step instructions with photos and videos.</td> 
+  </tr>
 </table>  
-
 
 
 </details>
