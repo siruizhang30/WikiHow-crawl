@@ -71,7 +71,7 @@ csv file includes the following contents:
 <details>
 <summary><b> csv example </b></summary>
 
-| topic url                                                    | topic name                               | father topics                                  | topic  description                                           |
+| topic url                                                    | topic name                               | father topics                                  | topic description                                           |
 | ------------------------------------------------------------ | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
 | https://www.wikihow.com/Category:Arts-and-Entertainment      | Arts and Entertainment                   | ['root']                                       | Learn to be well read, become a  better artist, and sell your own music with wikiHow's Arts and Entertainment  category. Our articles can help you develop talent in multiple areas and be a  good entertainer. Check out how-tos on learning ventriloquism, making your  own radio show, becoming a professional storyteller, and more. |
 |                                                              |                                          |                                                |                                                              |
