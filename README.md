@@ -31,30 +31,51 @@ WikiHow's data is organized by topics and the topics are hierarchical
 │root
 
 └───Arts and Entertainment
+
 │   └───Artwork
+
 │   └───Books
+
 │   └───Celebrities
+
 │   └───Concerts
+
 │   └───Cosplay
+
 │   └─── ......
+
 │   
 
 └───Cars & Other Vehicles
+
 │   └───Aviation
+
 │   └───Boats
+
 │   └───Cars
+
 │   └───Cycling
+
 │   └───Driving Vehicles
+
 │   └─── ......
+
 │   
 
 └───Computers and Electronics
+
 │   └───Basic Computer Skills
+
 │   └───Computer Networking
+
 │   └───Computers
+
 │   └───Consumer Electronics
+
 │   └───Hardware
+
 │   └─── ......
+
 │   
 
 └─── ......
