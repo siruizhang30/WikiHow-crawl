@@ -82,34 +82,38 @@ WikiHow's data is organized by topics and the topics are hierarchical
 
 </details>
 
-我的世界
 
-<details>   
-  <summary><b> Example of the structure of topics </b></summary>  
-  │root  
-  └───Arts and Entertainment  
-  │   └───Artwork  
-  │   └───Books  
-  │   └───Celebrities  
-  │   └───Concerts  
-  │   └───Cosplay  
-  │   └─── ......  
-  └───Cars & Other Vehicles  
-  │   └───Aviation  
-  │   └───Boats  
-  │   └───Cars  
-  │   └───Cycling  
-  │   └───Driving Vehicles  
-  │   └─── ......  
-  └───Computers and Electronics  
-  │   └───Basic Computer Skills  
-  │   └───Computer Networking  
-  │   └───Computers  
-  │   └───Consumer Electronics  
-  │   └───Hardware  
-  │   └─── ......  
-  └─── ......  
-</details>  
+<details>
+    <summary><b> Example of the structure of topics </b></summary>
+│root/
+└───Arts and Entertainment/
+│   └───Artwork/
+│   └───Books/
+│   └───Celebrities/
+│   └───Concerts/
+│   └───Cosplay/
+│   └─── ....../
+│   
+└───Cars & Other Vehicles/
+│   └───Aviation/
+│   └───Boats/
+│   └───Cars/
+│   └───Cycling/
+│   └───Driving Vehicles/
+│   └─── ....../
+│   
+└───Computers and Electronics/
+│   └───Basic Computer Skills/
+│   └───Computer Networking/
+│   └───Computers/
+│   └───Consumer Electronics/
+│   └───Hardware/
+│   └─── ....../
+│   
+└─── ......
+
+
+</details>
 
 
 csv file includes the following contents:
